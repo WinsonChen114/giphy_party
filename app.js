@@ -6,7 +6,7 @@ const search = document.querySelector("#search")
 const moreButton = document.querySelector("#more_button")
 
 //Remember to replace apiKey
-const apiKey = "RNtYFS9Q4vYDV1E5LLJsw58nQdlOZReC"
+const apiKey = "API_KEY"
 const rating = "g"
 const limit = 9
 
